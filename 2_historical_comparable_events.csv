@@ -1,0 +1,41 @@
+comparable_event_id,event_type,event_tier,season,venue_capacity,days_to_event_at_snapshot,tickets_sold_at_snapshot,sold_percentage_at_snapshot,sales_velocity,average_price,final_average_price,final_sell_through,revenue_per_available_seat,total_ticket_revenue,price_change_action,price_change_pct,price_change_amount,outcome,similarity_notes
+HIST-2001,Regular Season Game,T1,2024-25,18000,14,13320,74.0,320,121,126,98.5,124.11,2233980,RAISE,6,7.26,RAISE_IMPROVED_REVENUE,Similar velocity acceleration; marquee opponent; Friday night. Strong analog for T1 games at ~14 days.
+HIST-2002,Regular Season Game,T1,2024-25,18000,15,12600,70.0,290,118,121,96.0,116.16,2090880,HOLD,0,0.0,HOLD_STRONG_RESULT,Held through the window; demand built late without intervention.
+HIST-2003,Regular Season Game,T1,2023-24,18000,10,9360,52.0,190,116,108,88.0,95.04,1710720,LOWER,-8,-9.28,LOWER_IMPROVED_SELL_THROUGH,Weak midweek game; decrease lifted sell-through modestly. Low-demand profile.
+HIST-2004,Regular Season Game,T1,2023-24,18000,12,11880,66.0,240,125,132,90.0,118.8,2138400,RAISE,14,17.5,RAISE_SLOWED_SALES,Increase above 10% coincided with ~35% drop in 7d velocity; finished short of forecast (97%).
+HIST-2005,Regular Season Game,T1,2024-25,18000,30,8100,45.0,210,119,122,97.0,118.34,2130120,HOLD,0,0.0,HOLD_STRONG_RESULT,"Early-window hold; curve was back-loaded, most sales in final 3 weeks."
+HIST-2006,Regular Season Game,T2,2024-25,18000,14,12780,71.0,305,75,80,97.5,78.0,1404000,RAISE,7,5.25,RAISE_IMPROVED_REVENUE,"Near-identical profile to current mid-tier weekend games: same velocity band, same tier, same venue."
+HIST-2007,Regular Season Game,T2,2024-25,18000,21,9720,54.0,260,72,74,88.0,65.12,1172160,HOLD,0,0.0,HOLD_STRONG_RESULT,On-pace at 3 weeks; hold produced steady build and healthy final average price.
+HIST-2008,Regular Season Game,T2,2023-24,18000,20,10260,57.0,265,74,75,89.0,66.75,1201500,HOLD,0,0.0,HOLD_STRONG_RESULT,Elastic demand segment; hold outperformed neighboring game that discounted.
+HIST-2009,Regular Season Game,T2,2023-24,18000,18,8640,48.0,160,73,76,84.0,63.84,1149120,RAISE,5,3.65,INCONCLUSIVE,Severe storm two days after change distorted sales; effect of raise cannot be isolated.
+HIST-2010,Regular Season Game,T2,2024-25,18000,17,14220,79.0,330,79,86,99.0,85.14,1532520,RAISE,8,6.32,RAISE_IMPROVED_REVENUE,Strong velocity and high sold %; 8% raise absorbed with no slowdown.
+HIST-2011,Regular Season Game,T2,2023-24,18000,17,13860,77.0,290,78,83,91.0,75.53,1359540,RAISE,15,11.7,RAISE_SLOWED_SALES,"Very similar to HIST-2010 at snapshot, but 15% raise slowed sales and left ~1,600 unsold."
+HIST-2012,Regular Season Game,T2,2023-24,18000,33,7560,42.0,170,70,68,87.0,59.16,1064880,LOWER,-8,-5.6,LOWER_NO_MEANINGFUL_EFFECT,"Early discount did not change the (back-loaded) curve; sold same late-window volume, lower price."
+HIST-2013,Regular Season Game,T2,2024-25,18000,35,7200,40.0,160,71,74,91.0,67.34,1212120,HOLD,0,0.0,HOLD_STRONG_RESULT,Holiday-adjacent game; 40% sold at 5 weeks was normal for this curve; hold was correct.
+HIST-2014,Regular Season Game,T2,2023-24,18000,9,11160,62.0,230,74,77,89.0,68.53,1233540,RAISE,12,8.88,RAISE_SLOWED_SALES,Raise with >35% inventory unsold inside 10 days slowed sales; final sell-through 89% vs 93% forecast.
+HIST-2015,Regular Season Game,T2,2024-25,18000,8,11880,66.0,300,76,77,95.0,73.15,1316700,HOLD,0,0.0,HOLD_STRONG_RESULT,Held at 8 days; strong finish without intervention.
+HIST-2016,Regular Season Game,T2,2023-24,18000,11,10800,60.0,210,76,71,90.0,63.9,1150200,LOWER,-6,-4.56,LOWER_IMPROVED_SELL_THROUGH,Weeknight game with soft demand; 6% decrease improved sell-through.
+HIST-2017,Regular Season Game,T3,2023-24,18000,12,7200,40.0,150,42,37,70.0,25.9,466200,LOWER,-10,-4.2,LOWER_NO_MEANINGFUL_EFFECT,Weak opponent draw; 10% decrease did not lift demand meaningfully.
+HIST-2018,Regular Season Game,T3,2024-25,18000,14,8280,46.0,190,43,40,84.0,33.6,604800,LOWER,-8,-3.44,LOWER_IMPROVED_SELL_THROUGH,Value game; discount plus promotion improved sell-through.
+HIST-2019,Regular Season Game,T3,2024-25,18000,5,7020,39.0,110,42,38,61.0,23.18,417240,LOWER,-10,-4.2,LOWER_NO_MEANINGFUL_EFFECT,Late discount inside 5 days did not move volume; low awareness late in window.
+HIST-2020,Regular Season Game,T3,2024-25,18000,20,9360,52.0,240,44,46,94.0,43.24,778320,HOLD,0,0.0,HOLD_STRONG_RESULT,On-pace value game; hold captured full demand.
+HIST-2021,Exhibition Game,T3,2023-24,12500,10,6250,50.0,140,35,33,82.0,27.06,338250,LOWER,-7,-2.45,LOWER_IMPROVED_SELL_THROUGH,Exhibition with modest draw; 7% decrease helped sell-through.
+HIST-2022,Exhibition Game,T3,2024-25,12500,7,5500,44.0,90,36,36,68.0,24.48,306000,HOLD,0,0.0,INCONCLUSIVE,Weak interest; unclear whether an earlier change would have helped.
+HIST-2023,Exhibition Game,T3,2024-25,12500,16,7250,58.0,190,35,37,90.0,33.3,416250,RAISE,6,2.1,RAISE_IMPROVED_REVENUE,Small raise absorbed; sell-through above forecast.
+HIST-2024,Rivalry Game,T1,2024-25,18000,12,14760,82.0,350,128,138,99.5,137.31,2471580,RAISE,8,10.24,RAISE_IMPROVED_REVENUE,Rivalry night with scarce inventory; raise improved revenue with no slowdown.
+HIST-2025,Rivalry Game,T1,2024-25,18000,10,15840,88.0,360,132,143,99.2,141.86,2553408,RAISE,10,13.2,RAISE_IMPROVED_REVENUE,"Closest analog for high-sell-through rivalry games: sold % 88, velocity high, 10% raise absorbed."
+HIST-2026,Rivalry Game,T1,2023-24,18000,11,15120,84.0,330,130,134,94.0,125.96,2267280,RAISE,16,20.8,RAISE_SLOWED_SALES,"Raise of 16% overshot; sales slowed sharply and 1,000+ seats went unsold."
+HIST-2027,Rivalry Game,T1,2023-24,18000,8,16380,91.0,300,135,138,99.6,137.45,2474064,HOLD,0,0.0,HOLD_STRONG_RESULT,Held at 91% sold; sold out anyway. Small remaining inventory.
+HIST-2028,Rivalry Game,T1,2024-25,18000,18,14040,78.0,300,125,133,98.0,130.34,2346120,RAISE,9,11.25,RAISE_IMPROVED_REVENUE,Superficial match: T1 and similar sold % but weaker opponent draw and midweek date; raise worked partly because of a promotion.
+HIST-2029,Concert,S,2024-25,22000,30,11000,50.0,400,104,112,99.0,110.88,2439360,RAISE,10,10.4,RAISE_IMPROVED_REVENUE,"Headline act, strong early velocity; 10% raise absorbed."
+HIST-2030,Concert,S,2023-24,22000,28,10120,46.0,320,106,110,91.0,100.1,2202200,RAISE,14,14.84,RAISE_SLOWED_SALES,Raise above 10% slowed sales; artist demand less deep than presale suggested.
+HIST-2031,Concert,S,2024-25,22000,25,12760,58.0,380,100,104,97.0,100.88,2219360,HOLD,0,0.0,HOLD_STRONG_RESULT,Hold produced strong late sales and stable pricing.
+HIST-2032,Concert,S,2023-24,22000,14,11440,52.0,300,98,92,90.0,82.8,1821600,LOWER,-10,-9.8,LOWER_IMPROVED_SELL_THROUGH,Underperforming concert; decrease lifted sell-through but revenue per seat fell.
+HIST-2033,Family Show,T3,2024-25,6000,15,3300,55.0,90,37,38,93.0,35.34,212040,HOLD,0,0.0,HOLD_STRONG_RESULT,Family show; steady weekend build.
+HIST-2034,Family Show,T3,2023-24,6000,12,2880,48.0,70,38,36,80.0,28.8,172800,LOWER,-8,-3.04,LOWER_IMPROVED_SELL_THROUGH,Soft weekday matinee; discount helped.
+HIST-2035,Family Show,T3,2024-25,6000,20,3600,60.0,110,38,40,98.0,39.2,235200,RAISE,5,1.9,RAISE_IMPROVED_REVENUE,Small raise on high-demand holiday show absorbed.
+HIST-2036,Community Night,C,2024-25,12500,7,11625,93.0,210,29,29,100.0,29.0,362500,HOLD,0,0.0,HOLD_STRONG_RESULT,Community night at ceiling policy; held at community price; sold out with strong goodwill.
+HIST-2037,Community Night,C,2023-24,12500,9,10625,85.0,200,28,30,99.6,29.88,373500,RAISE,10,2.8,RAISE_IMPROVED_REVENUE,Small raise within ceiling; sold out.
+HIST-2038,Community Night,C,2024-25,12500,6,11250,90.0,180,30,33,99.0,32.67,408375,RAISE,10,3.0,RAISE_IMPROVED_REVENUE,Raise brought price to just under the ceiling; revenue up but fan-relations complaints elevated (see policy 4.6).
+HIST-2039,Regular Season Game,T2,2024-25,18000,16,11340,63.0,250,75,78,95.0,74.1,1333800,RAISE,4,3.0,RAISE_IMPROVED_REVENUE,Modest raise on a mid-tier game with solid velocity; no slowdown.
+HIST-2040,Regular Season Game,T1,2024-25,18000,20,10440,58.0,260,120,116,92.0,106.72,1920960,LOWER,-5,-6.0,INCONCLUSIVE,Competing city event same night confounded results.

@@ -1,0 +1,74 @@
+competitor_event_id,event_id,competitor_name,comparable_event_type,ticket_section_or_tier,competitor_price,observation_date,days_to_event,inventory_signal,promotion_status,price_change_vs_previous_observation,data_quality,notes
+COMP-3001,EVT-1001,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,86,2026-09-27,15,MODERATE,NONE,4.9,HIGH,Raised twice in 10 days; reportedly selling well. Supports ML increase.
+COMP-3002,EVT-1001,GateLine Resale Marketplace,Regular Season Game,Lower Bowl Mid,91,2026-09-28,14,LIMITED,NONE,3.0,MEDIUM,Resale median above face value; consistent with strong demand.
+COMP-3003,EVT-1002,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,77,2026-09-26,22,MODERATE,NONE,0.0,HIGH,Flat for three weeks; consistent with hold.
+COMP-3004,EVT-1002,Larkspur Wolves (home game),Regular Season Game,Lower Bowl Mid,75,2026-09-25,21,MODERATE,NONE,-1.3,MEDIUM,Minor dip; within normal noise.
+COMP-3005,EVT-1003,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,88,2026-09-27,18,LIMITED,NONE,6.0,HIGH,Raised after strong weekend; supports increase.
+COMP-3006,EVT-1003,Larkspur Wolves (home game),Regular Season Game,Lower Bowl Mid,74,2026-09-26,17,MODERATE,NONE,-6.3,MEDIUM,Lowered after a slow weekend; contradicts increase but competitor game has weaker draw.
+COMP-3007,EVT-1003,Ridgeway Live,Regular Season Game,Lower Bowl Mid,69,2026-09-27,17,ABUNDANT,ACTIVE_PROMO,-12.0,LOW,Fan Fest bundle promo with 2 days remaining; low comparability.
+COMP-3008,EVT-1004,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,,,,UNKNOWN,UNKNOWN,,MISSING,No comparable competitor event found for this date; scraper returned no records. Do not infer.
+COMP-3009,EVT-1005,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,84,2026-09-27,10,LIMITED,NONE,5.0,MEDIUM,Competitor raising; but their event has a star draw. Moderate comparability. Supports ML on its face.
+COMP-3010,EVT-1005,GateLine Resale Marketplace,Regular Season Game,Upper Bowl,80,2026-09-28,9,MODERATE,NONE,2.0,MEDIUM,Resale median modestly above face.
+COMP-3011,EVT-1006,Ridgeway Live,Community Night,General Admission,55,2026-09-26,7,LIMITED,NONE,0.0,MEDIUM,"Commercial family night; different pricing model, not comparable to a subsidized community event."
+COMP-3012,EVT-1006,Larkspur Wolves (home game),Community Night,General Admission,28,2026-09-27,8,MODERATE,NONE,0.0,HIGH,Community-night comparable; priced at community level.
+COMP-3013,EVT-1007,Larkspur Wolves (home game),Regular Season Game,Lower Bowl Mid,59,2026-09-28,35,ABUNDANT,ACTIVE_PROMO,-18.1,HIGH,Flash sale ends in 3 days; temporary; misleading as a price benchmark.
+COMP-3014,EVT-1007,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,70,2026-09-17,36,MODERATE,NONE,-2.8,STALE,Observation older than 7 days.
+COMP-3015,EVT-1007,GateLine Resale Marketplace,Regular Season Game,Lower Bowl Mid,71,2026-09-26,34,ABUNDANT,NONE,-1.4,MEDIUM,Essentially flat vs. our price; no strong signal.
+COMP-3016,EVT-1008,Cedar Vale Comets (home game),Rivalry Game,Lower Bowl Mid,141,2026-09-27,9,LIMITED,NONE,4.4,HIGH,Raised in last week; supports increase.
+COMP-3017,EVT-1008,GateLine Resale Marketplace,Rivalry Game,Lower Bowl Mid,155,2026-09-19,8,LIMITED,NONE,8.0,STALE,Resale premium; observation is 10 days old.
+COMP-3018,EVT-1008,Larkspur Wolves (home game),Rivalry Game,Lower Bowl Mid,118,2026-09-28,8,MODERATE,ACTIVE_PROMO,-10.0,LOW,Bundle promo including parking; not a price comparison.
+COMP-3019,EVT-1009,Larkspur Wolves (home game),Regular Season Game,Upper Bowl,39,2026-09-27,5,ABUNDANT,NONE,-7.1,MEDIUM,Lowered late; supports decrease direction.
+COMP-3020,EVT-1009,Ridgeway Live,Regular Season Game,Upper Bowl,41,2026-09-26,4,ABUNDANT,NONE,-2.4,HIGH,Small decrease.
+COMP-3021,EVT-1010,Marquette Metro Arena,Concert,Lower Bowl Mid,118,2026-09-26,31,MODERATE,NONE,5.4,HIGH,Comparable headline concert; raising.
+COMP-3022,EVT-1010,Ridgeway Live,Concert,Lower Bowl Mid,112,2026-09-23,25,LIMITED,NONE,3.0,MEDIUM,Smaller act; loosely comparable.
+COMP-3023,EVT-1011,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,122,2026-09-20,16,MODERATE,NONE,1.7,STALE,9 days old.
+COMP-3024,EVT-1011,Larkspur Wolves (home game),Regular Season Game,Lower Bowl Mid,121,2026-09-18,15,MODERATE,UNKNOWN,,STALE,11 days old; low reliability.
+COMP-3025,EVT-1012,Larkspur Wolves (home game),Exhibition Game,General Admission,34,2026-09-27,10,MODERATE,NONE,0.0,MEDIUM,Exhibition comparable; flat.
+COMP-3026,EVT-1013,Cedar Vale Comets (home game),Rivalry Game,Lower Bowl Mid,172,2026-09-28,4,LIMITED,NONE,6.0,HIGH,Nearly sold out; raising.
+COMP-3027,EVT-1013,GateLine Resale Marketplace,Rivalry Game,Lower Bowl Mid,205,2026-09-28,3,LIMITED,NONE,9.0,MEDIUM,"Resale premium ~37% over face; secondary market, not a primary comparable."
+COMP-3028,EVT-1015,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,110,2026-09-27,14,MODERATE,NONE,-6.8,MEDIUM,Competitor lowered; consistent with softening demand.
+COMP-3029,EVT-1015,GateLine Resale Marketplace,Regular Season Game,Lower Bowl Mid,101,2026-09-28,13,ABUNDANT,ACTIVE_PROMO,-15.0,LOW,Resale flash discount tied to injury news; volatile.
+COMP-3030,EVT-1017,Larkspur Wolves (home game),Regular Season Game,Upper Bowl,62,2026-09-26,12,LIMITED,NONE,3.0,HIGH,Themed night priced above tier baseline.
+COMP-3031,EVT-1018,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,86,2026-09-28,8,LIMITED,NONE,5.0,HIGH,Competitor raised; near sell-out.
+COMP-3032,EVT-1019,Larkspur Wolves (home game),Regular Season Game,General Admission,45,2026-09-27,17,MODERATE,NONE,1.0,MEDIUM,Kids Day comparable; flat.
+COMP-3033,EVT-1020,Ridgeway Live,Regular Season Game,Club Level,73,2026-09-20,54,LIMITED,NONE,-3.6,STALE,Auto-generated observation.
+COMP-3034,EVT-1020,Ridgeway Live,Regular Season Game,Club Level,72,2026-09-25,55,MODERATE,NONE,-1.3,LOW,Auto-generated observation.
+COMP-3035,EVT-1021,GateLine Resale Marketplace,Exhibition Game,Upper Bowl,36,2026-09-16,60,LIMITED,NONE,-0.6,STALE,Auto-generated observation.
+COMP-3036,EVT-1022,Marquette Metro Arena,Concert,Club Level,106,2026-09-13,39,MODERATE,NONE,-0.2,STALE,Auto-generated observation.
+COMP-3037,EVT-1022,GateLine Resale Marketplace,Concert,Upper Bowl,111,2026-09-27,37,MODERATE,NONE,0.8,LOW,Auto-generated observation.
+COMP-3038,EVT-1023,Marquette Metro Arena,Rivalry Game,Upper Bowl,126,2026-09-28,8,LIMITED,NONE,-0.8,HIGH,Auto-generated observation.
+COMP-3039,EVT-1023,Cedar Vale Comets (home game),Rivalry Game,Lower Bowl Mid,129,2026-09-20,13,LIMITED,NONE,4.3,STALE,Auto-generated observation.
+COMP-3040,EVT-1023,Larkspur Wolves (home game),Rivalry Game,Upper Bowl,120,2026-09-20,8,MODERATE,NONE,-2.9,STALE,Auto-generated observation.
+COMP-3041,EVT-1025,Marquette Metro Arena,Exhibition Game,Club Level,33,2026-09-20,6,ABUNDANT,NONE,2.8,STALE,Auto-generated observation.
+COMP-3042,EVT-1025,Larkspur Wolves (home game),Exhibition Game,Club Level,37,2026-09-16,4,ABUNDANT,NONE,3.4,STALE,Auto-generated observation.
+COMP-3043,EVT-1025,Cedar Vale Comets (home game),Exhibition Game,General Admission,34,2026-09-23,9,LIMITED,NONE,2.5,LOW,Auto-generated observation.
+COMP-3044,EVT-1026,GateLine Resale Marketplace,Exhibition Game,Upper Bowl,34,2026-09-27,36,MODERATE,NONE,-1.8,MEDIUM,Auto-generated observation.
+COMP-3045,EVT-1026,GateLine Resale Marketplace,Exhibition Game,Lower Bowl Mid,39,2026-09-27,30,MODERATE,NONE,-4.1,LOW,Auto-generated observation.
+COMP-3046,EVT-1028,Larkspur Wolves (home game),Regular Season Game,Upper Bowl,72,2026-09-25,53,MODERATE,NONE,1.1,LOW,Auto-generated observation.
+COMP-3047,EVT-1028,Ridgeway Live,Regular Season Game,General Admission,66,2026-09-16,56,LIMITED,NONE,3.7,STALE,Auto-generated observation.
+COMP-3048,EVT-1033,Marquette Metro Arena,Community Night,General Admission,25,2026-09-26,35,LIMITED,NONE,-3.1,HIGH,Auto-generated observation.
+COMP-3049,EVT-1033,Larkspur Wolves (home game),Community Night,General Admission,21,2026-09-16,36,ABUNDANT,ACTIVE_PROMO,9.3,STALE,Auto-generated observation. Promotion active; temporary.
+COMP-3050,EVT-1036,GateLine Resale Marketplace,Regular Season Game,Club Level,61,2026-09-26,15,MODERATE,ACTIVE_PROMO,3.3,LOW,Auto-generated observation. Promotion active; temporary.
+COMP-3051,EVT-1036,Marquette Metro Arena,Regular Season Game,Club Level,83,2026-09-28,16,LIMITED,NONE,5.0,LOW,Auto-generated observation.
+COMP-3052,EVT-1038,GateLine Resale Marketplace,Concert,Upper Bowl,106,2026-09-13,56,MODERATE,NONE,8.1,STALE,Auto-generated observation.
+COMP-3053,EVT-1038,Ridgeway Live,Concert,General Admission,124,2026-09-28,61,MODERATE,NONE,1.6,HIGH,Auto-generated observation.
+COMP-3054,EVT-1038,Ridgeway Live,Concert,Club Level,115,2026-09-13,62,MODERATE,NONE,-0.4,STALE,Auto-generated observation.
+COMP-3055,EVT-1039,Ridgeway Live,Regular Season Game,Club Level,87,2026-09-26,1,LIMITED,NONE,-0.9,MEDIUM,Auto-generated observation.
+COMP-3056,EVT-1040,Marquette Metro Arena,Regular Season Game,General Admission,41,2026-09-26,8,MODERATE,NONE,2.0,MEDIUM,Auto-generated observation.
+COMP-3057,EVT-1040,Ridgeway Live,Regular Season Game,Club Level,46,2026-09-25,8,MODERATE,NONE,-3.0,MEDIUM,Auto-generated observation.
+COMP-3058,EVT-1041,Marquette Metro Arena,Regular Season Game,Club Level,88,2026-09-13,56,MODERATE,NONE,2.9,STALE,Auto-generated observation.
+COMP-3059,EVT-1041,Ridgeway Live,Regular Season Game,Upper Bowl,82,2026-09-13,62,MODERATE,NONE,-0.9,STALE,Auto-generated observation.
+COMP-3060,EVT-1041,Ridgeway Live,Regular Season Game,General Admission,69,2026-09-13,59,ABUNDANT,ACTIVE_PROMO,4.7,STALE,Auto-generated observation. Promotion active; temporary.
+COMP-3061,EVT-1042,Larkspur Wolves (home game),Regular Season Game,General Admission,44,2026-09-25,14,MODERATE,NONE,11.3,HIGH,Auto-generated observation.
+COMP-3062,EVT-1043,Larkspur Wolves (home game),Regular Season Game,Club Level,88,2026-09-23,29,LIMITED,NONE,-1.7,LOW,Auto-generated observation.
+COMP-3063,EVT-1043,GateLine Resale Marketplace,Regular Season Game,Lower Bowl Mid,82,2026-09-20,35,LIMITED,NONE,-1.4,STALE,Auto-generated observation.
+COMP-3064,EVT-1044,Cedar Vale Comets (home game),Exhibition Game,Upper Bowl,34,2026-09-16,29,MODERATE,NONE,1.1,STALE,Auto-generated observation.
+COMP-3065,EVT-1045,Marquette Metro Arena,Exhibition Game,Club Level,37,2026-09-20,23,MODERATE,NONE,-6.9,STALE,Auto-generated observation.
+COMP-3066,EVT-1045,Larkspur Wolves (home game),Exhibition Game,Upper Bowl,37,2026-09-20,29,MODERATE,NONE,5.3,STALE,Auto-generated observation.
+COMP-3067,EVT-1048,Cedar Vale Comets (home game),Regular Season Game,Lower Bowl Mid,43,2026-09-13,49,MODERATE,NONE,-7.0,STALE,Auto-generated observation.
+COMP-3068,EVT-1048,Ridgeway Live,Regular Season Game,Club Level,47,2026-09-23,47,LIMITED,NONE,-0.4,HIGH,Auto-generated observation.
+COMP-3069,EVT-1049,Larkspur Wolves (home game),Community Night,General Admission,30,2026-09-25,56,LIMITED,NONE,-0.4,LOW,Auto-generated observation.
+COMP-3070,EVT-1049,GateLine Resale Marketplace,Community Night,General Admission,25,2026-09-23,55,MODERATE,ACTIVE_PROMO,3.0,LOW,Auto-generated observation. Promotion active; temporary.
+COMP-3071,EVT-1050,Larkspur Wolves (home game),Regular Season Game,General Admission,73,2026-09-20,6,MODERATE,ACTIVE_PROMO,7.4,STALE,Auto-generated observation. Promotion active; temporary.
+COMP-3072,EVT-1050,GateLine Resale Marketplace,Regular Season Game,Lower Bowl Mid,74,2026-09-13,9,MODERATE,ACTIVE_PROMO,6.1,STALE,Auto-generated observation. Promotion active; temporary.
+COMP-3073,EVT-1050,Marquette Metro Arena,Regular Season Game,Club Level,88,2026-09-25,3,LIMITED,NONE,6.1,MEDIUM,Auto-generated observation.
